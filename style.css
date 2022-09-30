@@ -27,4 +27,5 @@ background-image: radial-gradient(circle at center,rgb(172, 218, 248),pink);}
     height: 200px;
     margin-top: 20px;
     border: solid 2px black;
-background-image: -webkit-repeating-radial-gradient(black,white 10px) ;}
+background-image: repeating-radial-gradient(black,white 10px) ;}
+#div4:hover{background-image: repeating-radial-gradient(white,black 10px);}
