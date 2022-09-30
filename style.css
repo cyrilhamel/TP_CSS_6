@@ -13,6 +13,7 @@
     
 p{  width: 200px;
     height: 200px;
+    text-align: center;
     top: 20px;
     background-image: linear-gradient(to top, rgb(255, 255, 255,0.5), rgb(0, 0, 0,0.5)); 
     border: solid 2px black;
