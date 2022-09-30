@@ -8,7 +8,7 @@
 #div2{width: 200px;
     height: 200px;
     margin-top: 20px;
-    background-image: linear-gradient(-70deg,yellow,purple 5%);
+    background-image: linear-gradient(-70deg,yellow,purple 25%);
     border: solid 2px black;}
     
 p{  width: 200px;
